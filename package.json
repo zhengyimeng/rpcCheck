@@ -1,0 +1,12 @@
+{
+  "name": "rpc-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmjs/json-rpc": "^0.32.1",
+    "@cosmjs/stargate": "^0.32.1",
+    "commander": "^11.1.0",
+    "ethers": "^6.9.0"
+  }
+}
